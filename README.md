@@ -1,42 +1,59 @@
-📊 Data Behind the Binge
-Uncovering what makes streaming content successful, one dataset at a time.
+# 📊 Data Behind the Binge
 
-🎬 Project Overview
-In an era where streaming platforms dominate entertainment, what separates a hit show from a forgotten flop? Data Behind the Binge dives into the data of platforms like Netflix and IMDb to reveal patterns, trends, and insights about popular TV shows and movies.
+_Uncovering what makes streaming content successful, one dataset at a time._
 
-This project explores:
+---
 
-Which genres dominate streaming platforms?
+## 🎬 Project Overview
 
-Do runtime, release year, or cast affect ratings?
+In an era where streaming platforms dominate entertainment, what separates a hit show from a forgotten flop?  
+**Data Behind the Binge** dives into data from Netflix, IMDb, and more to reveal patterns and insights into what makes streaming content successful.
 
-How do Netflix titles compare to IMDb’s top-rated shows?
+---
 
-Can we predict a show’s popularity based on its metadata?
+## ❓ Key Questions Explored
 
-📦 Data Sources
-Netflix Shows Dataset – Kaggle
+- **Which genres dominate streaming platforms?**
+- **Do runtime, release year, or cast affect ratings?**
+- **How do Netflix titles compare to IMDb’s top-rated shows?**
+- **Can we predict a show’s popularity based on its metadata?**
 
-IMDb Top 250 TV Shows – Web Scraping
+---
 
-TMDb API
+## 📦 Data Sources
 
-🛠️ Tools & Libraries
-Python, pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Netflix Shows Dataset** – [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **IMDb Top 250 TV Shows** – Web Scraping
+- **TMDb API** – [TMDb](https://www.themoviedb.org/documentation/api)
 
-BeautifulSoup for web scraping
+---
 
-Requests for API access
+## 🛠️ Tools & Libraries
 
-(Optional) Streamlit for dashboard deployment
+- **Languages & Frameworks:** Python
+- **Data Analysis:** pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Web Scraping:** BeautifulSoup
+- **APIs:** Requests, TMDb API
+- **Dashboard (Optional):** Streamlit
 
-🧠 Key Skills Demonstrated
-Data wrangling and cleaning
+---
 
-EDA and statistical analysis
+## 🧠 Key Skills Demonstrated
 
-API and web scraping
+- Data wrangling & cleaning
+- Exploratory Data Analysis (EDA) & statistical analysis
+- API integration & web scraping
+- Data visualization & storytelling
+- GitHub project structure & documentation
 
-Data visualization and storytelling
+---
 
-GitHub project structure and documentation
+## 🚀 Get Started
+
+Clone the repository and install requirements:
+
+```bash
+git clone https://github.com/IliasMits/streamlytics.git
+cd streamlytics
+pip install -r requirements.txt
