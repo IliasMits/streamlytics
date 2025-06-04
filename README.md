@@ -23,7 +23,6 @@ In an era where streaming platforms dominate entertainment, what separates a hit
 ## 📦 Data Sources
 
 - **Netflix Shows Dataset** – [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- **IMDb Top 250 TV Shows** – Web Scraping
 - **TMDb API** – [TMDb](https://www.themoviedb.org/documentation/api)
 
 ---
@@ -32,10 +31,9 @@ In an era where streaming platforms dominate entertainment, what separates a hit
 
 - **Languages & Frameworks:** Python
 - **Data Analysis:** pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn, Plotly
-- **Web Scraping:** BeautifulSoup
+- **Visualization:** Matplotlib, Plotly
 - **APIs:** Requests, TMDb API
-- **Dashboard (Optional):** Streamlit
+- **Dashboard (Optional):** Tableau
 
 ---
 
@@ -43,7 +41,7 @@ In an era where streaming platforms dominate entertainment, what separates a hit
 
 - Data wrangling & cleaning
 - Exploratory Data Analysis (EDA) & statistical analysis
-- API integration & web scraping
+- API integration
 - Data visualization & storytelling
 - GitHub project structure & documentation
 
