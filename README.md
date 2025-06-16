@@ -54,20 +54,13 @@ In an era where streaming platforms dominate entertainment, what separates a hit
 
 ### 2. **Cleaning Data**
 - Standardized column names and formats
-- Handled missing `director` and `cast` fields (replaced with "Unknown")
 - Converted date fields to datetime
-- Removed or flagged duplicate and null entries
-
-### 3. **Enriching Data**
-- Used TMDb API to get:
-  - Release dates
-  - Media types (TV/movie)
-  - Popularity and vote scores
-  - Genres and other metadata
+- Enriched the data to include the popularity and vote scores
+- Removed duplicate entries
 
 ### 4. **Saving Clean Data**
-- Raw: `data/raw/netflix_titles.csv`
-- Enriched: `data/processed/netflix_enriched.csv`
+- Raw: `data/raw/netflix_titles.csv`, 'data/raw/metadata.csv'
+- Clean: `data/clean/netflix_titles_cleaned.csv`
 ## 🚀 Get Started
 
 Clone the repository and install requirements:
